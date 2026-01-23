@@ -33,7 +33,7 @@ Each project simulates a realistic assignment, such as:
 
 ## Portfolio Structure
 
-1. [Public-Signal Safety Analysis of Ride-Hailing Platforms: Uber Case Study (2014–2023)](01-uber-safety-analysis/)
+1. [Public-Signal Safety Analysis of Ride-Hailing Platforms: Uber Case Study (2014–2023)](01_uber_safety_analysis/)
 
 ---
 
