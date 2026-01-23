@@ -8,7 +8,6 @@
 * Organizational responses & interventions
 * Gaps between harm and mitigation
 
----
 
 ## Project Structure
 

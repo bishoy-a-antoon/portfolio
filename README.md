@@ -16,8 +16,6 @@ The focus is on:
 * Evidence-based reasoning
 * Clear analytical communication
 
----
-
 ## What This Portfolio Is
 
 Each project simulates a realistic assignment, such as:
@@ -29,13 +27,9 @@ Each project simulates a realistic assignment, such as:
 * Proposing control or mitigation strategies
 * Writing executive-style safety summaries
 
----
-
 ## Portfolio Structure
 
 1. [Public-Signal Safety Analysis of Ride-Hailing Platforms: Uber Case Study (2014–2023)](01_uber_safety_analysis/)
-
----
 
 ## Analytical Methods Used
 
@@ -51,9 +45,7 @@ Across projects, I apply:
 Methods are adapted for limited or messy data, incomplete public reporting, and real-world ambiguity
 Assumptions and uncertainties are always stated explicitly.
 
----
-
-## Ethical Framing
+## Ethical Boundaries
 
 * All incidents are real and publicly reported
 * No personal data is enriched or scraped
