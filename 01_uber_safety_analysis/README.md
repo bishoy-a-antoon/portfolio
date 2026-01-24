@@ -25,16 +25,17 @@ Sexual assault & passenger safety risks
 
 ### Intervention Mapping: Confirmed Safety Interventions Implemented by Uber
 Examples:
-    * In-app emergency button
-    * Share-trip feature
-    * Audio recording
-    * Background check updates
-    * Transparency reporting
-    * Safety hotlines
+* In-app emergency button
+* Share-trip feature
+* Audio recording
+* Background check updates
+* Transparency reporting
+* Safety hotlines
+
 For each intervention, I have attempted to answer the following questions
-    1. What risk was it trying to address?
-    2. Was it preventive, detective, or responsive?
-    3. What failure mode does it *not* cover?
+* What risk was it trying to address?
+* Was it preventive, detective, or responsive?
+* What failure mode does it not cover?
 
 ### Failure Mode Analysis
 Examples:
