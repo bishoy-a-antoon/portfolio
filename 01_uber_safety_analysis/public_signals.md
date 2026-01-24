@@ -1,5 +1,19 @@
 # Public Signals, Incidents, and Data Points
 
+## Overview
+Pattern recognition across publicly available sources.
+
+Examples include:
+* News investigations
+* Court cases (complaints, verdicts)
+* NGO reports
+* Uber transparency / safety reports
+* Regulatory actions
+* Congressional hearings
+* Wikipedia (used for source collection)
+
+
+## Sources used in this analysis
 1. **Uber Safety Reports:**
     - 2017–2018
     - 2019–2020
