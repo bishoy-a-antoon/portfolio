@@ -19,7 +19,7 @@ Examples include:
     - 2019–2020
     - 2021–2022
 2. **News incidents:**
-    - [[east_hartford_sexual_assault]]
+    - [East Hartford Sexual Assault](incidents/east_hartford_sexual_assault.md)
     - Tabitha Turner assault
     - Murder of Samantha Josephson
     - Nottingham punching incident

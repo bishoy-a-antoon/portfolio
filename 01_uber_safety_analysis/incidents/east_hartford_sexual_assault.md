@@ -1,7 +1,7 @@
 # East Hartford Sexual Assault
 
 <figure>
-  <img src="data/east_hartford_incident_location.jpg" alt="Incident Location">
+  <img src="../data/east_hartford_incident_location.jpg" alt="Incident Location">
   <figcaption>The Location of the incident, alleged to be the Margarita's restaurant parking lot.</figcaption>
 </figure>
 
