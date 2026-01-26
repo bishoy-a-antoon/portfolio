@@ -51,7 +51,7 @@
 1. **resilience engineering.**
 1. **situational crime prevention.**
 1. **slippery slope effect.**
-1. **threat modeling (non-cyber).**
+1. **threat modeling.**
 1. **trauma exposure.**
 1. **victim vulnerability.**
 1. **warning signs.**
