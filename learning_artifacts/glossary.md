@@ -6,6 +6,7 @@
 1. **hindsight bias.** The incorrect assumption caused by knowledge of the outcome that people working on the system should have known it's going to fail based on the events leading to it.
 1. **socio-technical systems.** Systems composed of \_or characterized by the interaction of\_ a social system (people-related) and technology.
 1. **sextortion.** Pressuring a victim into complying with specific requests (monetary, sexual, or other types), by threatening to publish sexual content (images, videos, etc) of them.
+1. **protected characteristics.** Also known as PCs, these are the defining characteristics of communities protected by Meta's community standards for hateful conduct. They include race, religious affiliation, sex, and gender, among others.
 1. **high-reliability organization.** Organizations in which failure cost is very high, and they need to be vigilant against failures to get as close to 100% safe operations as possible (Even though truly 100% safe operations are not possible in real life). Includes industries such as nuclear power, aviation, healthcare, etc. 
 1. **latent failure.** A failure that is hidden or not fully developed yet.
 1. **active failure.**
