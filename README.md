@@ -62,7 +62,7 @@ Demonstrates:
 ---
 
 ## Glossary
-Related concepts are defined in `learning_artifacts/glossary.md` according to my level of understanding of each concept.
+Related concepts are defined in `glossary.md` according to my level of understanding of each concept.
 
 ---
 
