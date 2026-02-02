@@ -1,135 +1,80 @@
-# Trust & Safety Portfolio
+# Trust & Safety Operations & Risk Analysis Portfolio
 
-This portfolio demonstrates structured analysis of online harms, platform policies, and moderation decision-making.
-
-Focus areas:
-- Misogyny and gender-based hostility
-- Domestic and intimate partner violence
-- Sexual exploitation and image-based abuse
-- Crisis and self-harm signals
-
-Each project examines:
-- How harm manifests in online content
-- How platforms define and regulate it
-- How harm escalates
-- How moderators and safety teams respond
-
-This portfolio is intended for entry-level roles in:
-- Content Moderation
-- Trust & Safety Operations
-- Safety Analysis
-- Risk & Policy Review
-- Quality / Investigation roles in BPO environments
-
-No real victim data is used.
-No graphic or explicit material is included.
-All analysis is based on public policies and anonymized scenarios.
-
----
-
-## Project Structure
-
-Each project follows the same analytical structure:
-
-- `overview.md`
-- `policy.md`
-- `harm_dynamics.md`
-- `harm_pathway.md`
-- `moderation_decisions.md`
-- `signals.md`
-- `reflections.md`
-
-This consistency demonstrates:
-- Systematic reasoning
-- Policy application
-- Ethical awareness
-- Escalation thinking
+## Overview
+This portfolio demonstrates applied skills in trust and safety operations, content moderation workflows, behavioral threat analysis, and harm mitigation. It focuses on understanding harmful behavior patterns and designing practical intervention and escalation frameworks.
 
 ---
 
 ## Projects
 
-1. **Misogyny, Dating & Violence**
-2. **Domestic Violence & Coercive Control**
-3. **Sexual Exploitation & Image-Based Abuse**
-4. **Crisis, Self-Harm & Despair Signals**
+### P01 — Policy Analysis
+Analysis of platform rules related to harmful conduct and incitement.  
+Demonstrates:
+- Policy comprehension  
+- Enforcement logic  
+- Practical implications  
 
 ---
 
-## Learning Artifacts
-
-- `glossary.md` — personal definitions of safety concepts
-- Policy references (Meta, Mozilla, etc.)
-- Harm escalation models
-- Risk signal taxonomies
-
----
-
-## Ethical Principles
-
-- No victim-blaming
-- No explicit content
-- Focus on prevention
-- Focus on platform responsibility
-- Respect for privacy
+### P02 — Behavior & Threat Patterns
+Study of online behaviors such as misogyny, harassment, and ideological escalation.  
+Demonstrates:
+- Pattern recognition  
+- Risk indicators  
+- Threat analysis  
 
 ---
 
-## Roadmap
-
-This portfolio was developed over 8 weeks, with one major harm category every 2 weeks.
-
-
-
-
-### Weeks 1–2: Misogyny, Dating & Violence
-Focus:
-- Incels, manosphere, humiliation narratives
-- Platform hate & harassment policies
-
-Output:
-- Project 01 folder complete
+### P03 — Moderation Workflow Simulation
+Simulation of moderation and triage decisions.  
+Demonstrates:
+- Operational judgment  
+- Escalation logic  
+- Case handling  
 
 ---
 
-### Weeks 3–4: Domestic Violence & Coercive Control
-Focus:
-- Threats
-- Control language
-- Surveillance behaviors
-- Escalation to physical harm
-
-Output:
-- Project 02 folder complete
+### P04 — IPV & Misogyny Case Study
+Analysis of how online resentment and misogyny can escalate into real-world harm.  
+Demonstrates:
+- Cross-domain harm analysis  
+- Behavioral pathways  
+- Intervention design  
 
 ---
 
-### Weeks 5–6: Sexual Exploitation & Image-Based Abuse
-Focus:
-- Grooming
-- Sextortion
-- Non-consensual imagery
-- CSAM policy frameworks
-
-Output:
-- Project 03 folder complete
+### P05 — Escalation & Intervention Framework
+Framework defining thresholds for action based on severity and behavior.  
+Demonstrates:
+- Risk stratification  
+- Response design  
+- Harm reduction strategies  
 
 ---
 
-### Weeks 7–8: Crisis & Self-Harm Signals
-Focus:
-- Despair language
-- Suicide risk
-- Platform crisis response
-- Duty of care
-
-Output:
-- Project 04 folder complete
+### P06 — Synthesis Project
+Integrated report connecting policy, behavior, and intervention.  
+Demonstrates:
+- Systems thinking  
+- Cross-project reasoning  
+- Strategic mitigation  
 
 ---
 
-### Final Phase
+## Glossary
+Related concepts are defined in `learning_artifacts/glossary.md` according to my level of understanding of each concept.
 
-- Polish glossary
-- Improve moderation scenarios
-- Rewrite README for recruiters
+---
+
+## Focus Areas
+- Trust & Safety Operations  
+- Risk Analysis  
+- Harm Mitigation  
+- Behavioral Pattern Recognition  
+- Escalation Design  
+
+---
+
+## Purpose
+This portfolio is designed to demonstrate readiness for junior Trust & Safety, Content Moderation, and Risk Operations roles.
+
