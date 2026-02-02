@@ -1,4 +1,4 @@
-* # Glossary
+# Glossary
 
 1. **root cause.** The supposed final piece of a chain of reasons/failures that led to an incident, it should not take the full blame as it is only one part of the chain. It could be discovered through the 5-whys method among others.
 1. **edge of the envelope.** A system state showing that it is deteriorating or about to fail.
