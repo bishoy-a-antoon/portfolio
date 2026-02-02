@@ -1,63 +1,5 @@
 * # Glossary
 
-<<<<<<< HEAD
-* Socio-technical systems: Systems composed of \_or characterized by the interaction of\_ a social system (people-related) and technology.
-* Edge of the envelope: A system state showing that it is deteriorating or about to fail.
-* Failure trajectory: The direction a chain of events is going that will eventually result in failure.
-* Hindsight bias: The incorrect assumption caused by knowledge of the outcome that people working on the system should have known it's going to fail based on the events leading to it.
-* Latent failure: A failure that is hidden or not fully developed yet.
-* Sextortion: Pressuring a victim into complying with specific requests (monetary, sexual, or other types), by threatening to publish sexual content (images, videos, etc) of them.
-* Counterfactual reasoning: 
-* Risk: 
-* Likelihood (risk): 
-* Impact (risk): 
-* Controls: 
-* Prevent (controls): 
-* Detect (controls): 
-* Respond (controls): 
-* Pattern: 
-* Human error as a system property: 
-* Incident: 
-* Timeline: 
-* Reconstruction (timeline): 
-* Incentives: 
-* Tradeoffs: 
-* Root cause: 
-* Signal: 
-* Harm: 
-* Near miss: 
-* Active failure: 
-* Contributing factors: 
-* Defense in depth: 
-* Drift into failure: 
-* Adversarial behavior: 
-* Atrocity prevention: 
-* Behavioral drift: 
-* Blame culture: 
-* Boundary conditions: 
-* Cascading failure: 
-* Complex adaptive system: 
-* Cognitive bias: 
-* Crisis decision-making: 
-* Deviance normalization: 
-* Exploitation: 
-* Forensic psychology: 
-* Fraud triangle: 
-* High-reliability organization: 
-* Moral disengagement: 
-* Operational risk: 
-* Organizational failure: 
-* Predatory behavior: 
-* Protective factors: 
-* Resilience engineering: 
-* Situational crime prevention: 
-* Slippery slope effect: 
-* Threat modeling: 
-* Trauma exposure: 
-* Victim vulnerability: 
-* Warning signs: 
-* Weak signals: 
-=======
 1. **root cause.** The supposed final piece of a chain of reasons/failures that led to an incident, it should not take the full blame as it is only one part of the chain. It could be discovered through the 5-whys method among others.
 1. **edge of the envelope.** A system state showing that it is deteriorating or about to fail.
 1. **failure trajectory.** The direction a chain of events is going that will eventually result in failure.
@@ -116,4 +58,3 @@
 1. **victim vulnerability.**
 1. **warning signs.**
 
->>>>>>> c82c113d9c40230d5090615f6bcce73ccdecd623
