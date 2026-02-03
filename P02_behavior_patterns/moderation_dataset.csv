@@ -1,2 +1,2 @@
 id, timestamp, user_id, source, context, sentiment, report_count, report_breakdown, previous_actions_count, previous_actions_breakdown
-"1000", "02-03-2026 17:00:00", "u10234200", "https://meta.net/f/p12000/c087777", "OK, being a bleeder doesn't just magically give you...", "contempt", "12", "{\"Hateful Conduct\": 8, \"Bullying and Harassment\": 4}", "3", "{\"Hateful Conduct\": 1, \"Bullying and Harassment\": 2}"
+"1000", "02-03-2026 17:00:00", "u10234200", "https://meta.net/f/p12000/c087777", "OK, being a bleeder doesn't just magically give you...", "contempt", "12", "{'Hateful Conduct': 8, 'Bullying and Harassment': 4}", "2", "{'Hateful Conduct': 1, 'Bullying and Harassment': 1}"
